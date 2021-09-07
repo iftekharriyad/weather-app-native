@@ -1,1 +1,1 @@
-A simple weather app built with react-native.
+A simple cross-platform weather app built with react-native.
